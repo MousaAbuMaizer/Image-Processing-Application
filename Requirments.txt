@@ -1,4 +1,4 @@
-Thoose are add-ons needed for the app to function properly:-
+Those are the add-ons needed for the application to function properly:-
 
 1- Fuzzy Logic Toolbox
 2- Image Processing Toolbox
