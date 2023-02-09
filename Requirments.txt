@@ -1,0 +1,6 @@
+Thoose are add-ons needed for the app to function properly:-
+
+1- Fuzzy Logic Toolbox
+2- Image Processing Toolbox
+3- MATLAB Support Package for USB Webcams
+4- Original FCM for image segmentation
